@@ -53,7 +53,7 @@ product-catalog-api/
 ## Installation & Setup Instructions
 1. Clone the repository:
 ```
-git clone https://github.com/<your-username>/product-catalog-api.git
+git clone https://github.com/4yannnn/product-catalog-api.git
 cd product-catalog-api
 ```
 2. Install dependencies:
@@ -74,7 +74,7 @@ npm run dev
 
 ## GitHub Repository Link
 Replace with the link to your public repository:
-`https://github.com/<your-username>/product-catalog-api`
+`https://github.com/4yannnn/product-catalog-api.git`
 
 ## Author Information
 Your name: **Ayan**
