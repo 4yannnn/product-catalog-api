@@ -77,4 +77,4 @@ Replace with the link to your public repository:
 `https://github.com/4yannnn/product-catalog-api.git`
 
 ## Author Information
-Your name: **Ayan**
+Author name: **Ayan**
